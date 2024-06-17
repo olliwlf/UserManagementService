@@ -1,0 +1,4 @@
+com/tech11/ums/models/User.class
+com/tech11/ums/UserApplication.class
+com/tech11/ums/services/UserService.class
+com/tech11/ums/UserResource.class
