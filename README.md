@@ -8,9 +8,9 @@ Der UserManagementService ist ein RESTful Webservice, der es Nutzern ermöglicht
 - Frameworks und Bibliotheken: 
     - Jakarta EE
     - Project Lombok
-    - Mockito + Mockito-JUnit-Jupiter
-    - JUnit-Jupiter
-    - Rest-Assured
+    - Mockito + Mockito-JUnit-Jupiter (für Test)
+    - JUnit-Jupiter (für Test)
+    - Rest-Assured (für Test)
 - Application Server: Wildfly (v32.0.1)
 - Datenbank: In-Memory-Database (H2) of Wildfly (v32.0.1)
 
