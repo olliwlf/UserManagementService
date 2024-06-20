@@ -49,7 +49,8 @@ Der UserManagementService ist ein RESTful Webservice, der es Nutzern ermöglicht
 
 ## Test-Konzept
 - Zur Überprüfung der Funktionalität können Unit- und Integrationstests verwendet werden:
-    - Unit-Tests für die Endpunkte des RESTful Web-Service via „UserResource“ und für die Service-Klasse „UserService“ 
+    - Unit-Tests für die Endpunkte des RESTful Web-Service via „UserResource“
+    - Integrations-Tests für die Service-Klasse „UserService“ 
     - Systemtests für die Endpunkte wurden mithilfe von Postman durchgeführt:
         - Benutzer erstellen: POST http://localhost:8080/UMS-1.0/api/users
         - Liste aller Benutzer abrufen: GET http://localhost:8080/UMS-1.0/api/users
