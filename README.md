@@ -4,7 +4,7 @@
 Der UserManagementService ist ein RESTful Webservice, der es Nutzern ermöglicht, sich zu registrieren und ihre Accounts zu verwalten. Die JakartaEE-Anwendung läuft auf einem Wildfly Application Server (v32.0.1) und speichert die Daten in der WildFly In-Memory-Datenbank (H2). Die Kommunikation zwischen Client und Server erfolgt im JSON-Datenformat.
 
 ## Tech-Stack
-- Programmiersprache: Java
+- Programmiersprache: Java (openjdk 22.0.1)
 - Frameworks und Bibliotheken: 
     - Jakarta EE
     - Project Lombok
